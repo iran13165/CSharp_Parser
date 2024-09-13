@@ -1,0 +1,15 @@
+/Users/iranchoudhury/Documents/PARSER/Csharp/parser/bin/Debug/net9.0/parser
+/Users/iranchoudhury/Documents/PARSER/Csharp/parser/bin/Debug/net9.0/parser.deps.json
+/Users/iranchoudhury/Documents/PARSER/Csharp/parser/bin/Debug/net9.0/parser.runtimeconfig.json
+/Users/iranchoudhury/Documents/PARSER/Csharp/parser/bin/Debug/net9.0/parser.dll
+/Users/iranchoudhury/Documents/PARSER/Csharp/parser/bin/Debug/net9.0/parser.pdb
+/Users/iranchoudhury/Documents/PARSER/Csharp/parser/obj/Debug/net9.0/parser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iranchoudhury/Documents/PARSER/Csharp/parser/obj/Debug/net9.0/parser.AssemblyInfoInputs.cache
+/Users/iranchoudhury/Documents/PARSER/Csharp/parser/obj/Debug/net9.0/parser.AssemblyInfo.cs
+/Users/iranchoudhury/Documents/PARSER/Csharp/parser/obj/Debug/net9.0/parser.csproj.CoreCompileInputs.cache
+/Users/iranchoudhury/Documents/PARSER/Csharp/parser/obj/Debug/net9.0/parser.dll
+/Users/iranchoudhury/Documents/PARSER/Csharp/parser/obj/Debug/net9.0/refint/parser.dll
+/Users/iranchoudhury/Documents/PARSER/Csharp/parser/obj/Debug/net9.0/parser.pdb
+/Users/iranchoudhury/Documents/PARSER/Csharp/parser/obj/Debug/net9.0/parser.genruntimeconfig.cache
+/Users/iranchoudhury/Documents/PARSER/Csharp/parser/obj/Debug/net9.0/ref/parser.dll
+/Users/iranchoudhury/Documents/PARSER/Csharp/parser/obj/Debug/net9.0/parser.csproj.AssemblyReference.cache
